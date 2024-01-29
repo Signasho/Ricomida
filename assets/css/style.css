@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+.bottom-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    background-color: #DC3545;
+    color: white;
+}
+
+
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lobster';
+    font-weight: 400;
+    background-color: #373A3C;
+    color: white;
+    height: 120px;
+}
+
+.footer-text {
+    font-size: 50px;
+}
