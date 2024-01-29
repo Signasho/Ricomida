@@ -1,23 +1,107 @@
+.navbar-brand {
+    font-family: 'Lobster';
+    font-size: 35px;
+}
+
+.first-section-right {
+    font-family: 'Cabin', sans-serif;
+}
+
+.first-section-right h1 {
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+}
+
+.first-section-right hr {
+    border: 1px solid #000000;
+}
 
 
+.first-section-right p {
+    font-size: 30px;
+    font-weight: 700;
+}
 
+.first-section-right button {
+    background-color: white;
+    border: 1px solid #dddddd;
+    height: 40px;
+    width: 150px;
+    border-radius: 5%;
+    font-weight: 400;
+}
 
+.carousel-hr {
+    border: 1px solid #000000;
+    width: 68%;
+    margin: auto;
+    margin-bottom: 20px;
+}
 
+.body-text {
+    font-family: 'Cabin', sans-serif;
+}
 
+.body-text h5 {
+    font-weight: 400;
+    font-size: 30px;
+    margin-top: 15px;
+}
 
+.body-text hr {
+    border: 1px solid #000000;
+    width: 35%;
+}
+
+.body-text h6 {
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.body-text li {
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.recetas {
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.recipe-hr {
+    border: 1px solid #000000;
+    width: 70%;
+    margin: auto;
+}
 
 
 .bottom-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 350px;
+    text-align: center;
+    height: 450px;
     background-color: #DC3545;
     color: white;
 }
 
+.bottom-body h2 {
+    padding-top: 6%;
+    font-size: 50px;
+    font-weight: 700;
+}
 
+.bottom-body p {
+    font-size: 35px;
+    font-weight: 400;
+}
 
+.bottom-body button {
+    width: 15%;
+    margin-top: 2%;
+}
+
+.ricomida-text{
+    font-family: 'Lobster';
+}
 
 .footer {
     display: flex;
